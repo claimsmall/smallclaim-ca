@@ -1,6 +1,6 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: File a Small Claim in CA
+email: malak@smallclaim.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -15,12 +15,12 @@ google_username: smallclaimla
 permalink: /:categories/:title
 
 links:
-    - title: 
-        url:
-    - title:
-        url:
-    - title:
-        url:
+    - title: about
+        url: /about
+    - title: work
+        url: /work
+    - title: articles
+        url: /articles
 
 # Build settings
 markdown: kramdown
