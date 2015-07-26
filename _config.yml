@@ -15,11 +15,11 @@ google_username: smallclaimla
 permalink: /:categories/:title
 
 links:
-    - title: about
+    -title: about
         url: /about
-    - title: work
+    -title: work
         url: /work
-    - title: articles
+    -title: articles
         url: /articles
 
 # Build settings
